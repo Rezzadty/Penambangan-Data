@@ -1,6 +1,6 @@
 # Pengumpulan Tugas Repository Penambangan-Data
 
-MataKuliah Pembelajaran Mesin
+MataKuliah Penambangan Data
 
 Nama : Reza Aditya Prabowo
 
